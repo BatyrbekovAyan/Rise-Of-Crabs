@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UITexts_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 7ced890eb5aef4befa7b84347bc9bc50, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1633189935714926595
+  m_TableData:
+  - m_Id: 3618848628736
+    m_Localized: Commencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3626448707584
+    m_Localized: Niveaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3704919941120
+    m_Localized: Boutique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708367659008
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3718148775936
+    m_Localized: "\xC9change"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3727787286528
+    m_Localized: Balles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3730823962624
+    m_Localized: 'Disponible:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3733038555136
+    m_Localized: "Regarder la publicit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3738478567424
+    m_Localized: "Aucune publicit\xE9 forc\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3735693549568
+    m_Localized: Supprimez la Pub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3740017876992
+    m_Localized: Petit Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3740919652352
+    m_Localized: Grand Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3741741735936
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3742547042304
+    m_Localized: Son
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3743281045504
+    m_Localized: Niveau - {levelTranslation.level}
+    m_Metadata:
+      m_Items:
+      - rid: 1633189935714926595
+  - m_Id: 3743994077184
+    m_Localized: "\xC0 court de\nCROCHETS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7460147421184
+    m_Localized: Vous obtenez 1 crochet toutes les 2 minutes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7464173953024
+    m_Localized: "Niveau \xE9chou\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7465532907520
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8212924325888
+    m_Localized: "R\xE9essayer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8215096975360
+    m_Localized: 'Niveau
+
+      Complet'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8216212660224
+    m_Localized: Victoire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8217143795712
+    m_Localized: Suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8826311925760
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8833601626112
+    m_Localized: "\xC9cran d'accueil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8980712644608
+    m_Localized: Appuyez pour fermer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8981568282624
+    m_Localized: Appuyez pour commencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9080327044587520
+    m_Localized: Restaurer les achats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9079588037582848
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7481607689592832
+    m_Localized: Pas de connexion Internet
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1633189935714926595
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 3743281045504

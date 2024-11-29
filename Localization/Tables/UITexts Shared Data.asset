@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UITexts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UITexts
+  m_TableCollectionNameGuidString: 7ced890eb5aef4befa7b84347bc9bc50
+  m_Entries:
+  - m_Id: 3618848628736
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3626448707584
+    m_Key: Levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3704919941120
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708367659008
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3718148775936
+    m_Key: Exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3727787286528
+    m_Key: Balls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3730823962624
+    m_Key: Available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3733038555136
+    m_Key: Watch Ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3735693549568
+    m_Key: Remove Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3738478567424
+    m_Key: No forced Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3740017876992
+    m_Key: Small Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3740919652352
+    m_Key: Large Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3741741735936
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3742547042304
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3743281045504
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3743994077184
+    m_Key: Out of HOOKS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7460147421184
+    m_Key: You get 1 hook every 2 minutes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7464173953024
+    m_Key: Level Failed!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7465532907520
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8212924325888
+    m_Key: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8215096975360
+    m_Key: "Level \nComplete"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8216212660224
+    m_Key: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8217143795712
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8826311925760
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8833601626112
+    m_Key: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8980712644608
+    m_Key: Tap To Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8981568282624
+    m_Key: Tap To Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7481607689592832
+    m_Key: No Internet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9079588037582848
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9080327044587520
+    m_Key: Restore Purchases
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1633189367409541120
+  references:
+    version: 2
+    RefIds:
+    - rid: 1633189367409541120
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1727975897609
